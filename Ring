@@ -2,4 +2,4 @@
 راهنما: متن را کپی و در برنامه مورد نظر خود درج کنید
 حتما بار اول با وی پی ان وارد این برنامه شوید
 
-vless://5f34254a-0228-4c44-b5fe-e5b2fe336e31@108.162.193.244:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=vran.lunarmc.ir&fp=chrome&type=ws&sni=vran.lunarmc.ir#vip
+vless://5d495c0d-c8e5-4276-98dd-ce325c52c981@kafshu.ir:8080?path=%2F%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&security=&encryption=none&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40%20%7C%20All%C2%B9
